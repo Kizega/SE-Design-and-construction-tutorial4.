@@ -8,9 +8,8 @@
   <artifactId>tutorail4</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>tutorail4</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>tutorial4</name>
+  <url>https://github.com/Kizega/SE-Design-and-construction-tutorial4.</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
